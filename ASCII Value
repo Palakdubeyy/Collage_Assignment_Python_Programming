@@ -1,0 +1,6 @@
+num = input("Enter any character.")
+
+value = ord(num)
+
+print("ASCII value of entered character is ",value)
+
